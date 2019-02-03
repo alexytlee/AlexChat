@@ -1,4 +1,4 @@
-![Alex Chat](Documentation/AlexChat.png)
+![Alex Chat](../master/Documentation/AlexChat.png)
 
 # Alex Chat
 
@@ -7,5 +7,5 @@ The app currently is connected to a private firebase which lets you chat, feel f
 
 
 ## App Interface
-(Documentation/Main.png)
-(Documentation/Chat.png)
+(../master/Documentation/Main.png)
+(../master/Documentation/Chat.png)
