@@ -1,4 +1,4 @@
-![Alex Chat](https://github.com/alexytlee/AlexChat/Documentation/AlexChat.png)\
+![Alex Chat](https://github.com/alexytlee/AlexChat/blob/master/Documentation/alexchat.png)
 
 # Alex Chat
 
@@ -7,5 +7,5 @@ The app currently is connected to a private firebase which lets you chat, feel f
 
 
 ## App Interface
-(/Documentation/Main.png)
-(/Documentation/Chat.png)
+(https://github.com/alexytlee/AlexChat/blob/master/Documentation/Main.png)
+(https://github.com/alexytlee/AlexChat/blob/master/Documentation/Chat.png)
