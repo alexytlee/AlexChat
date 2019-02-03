@@ -1,4 +1,4 @@
-[[https://github.com/alexytlee/AlexChat/Documentation/AlexChat.png|alt=AlexChat]]
+![Alex Chat](https://github.com/alexytlee/AlexChat/Documentation/AlexChat.png)\
 
 # Alex Chat
 
