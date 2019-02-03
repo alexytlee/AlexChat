@@ -20,9 +20,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         //TODO: Initialise and Configure your Firebase here:
         FirebaseApp.configure() // When the app gets start up
         
-        let myDatabase = Database.database().reference()
-        
-        myDatabase.setValue("We've got data!")
+//        let myDatabase = Database.database().reference()
+//        myDatabase.setValue("We've got data!")
         
         return true
     }
