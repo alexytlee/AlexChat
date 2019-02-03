@@ -1,0 +1,6 @@
+framework module Pods_Alex_Chat {
+  umbrella header "Pods-Alex Chat-umbrella.h"
+
+  export *
+  module * { export * }
+}
