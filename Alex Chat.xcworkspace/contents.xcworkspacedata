@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
+   <Group
+      location = "group:Alex Chat"
+      name = "Documentation">
+      <FileRef
+         location = "group:Alex Chat/AlexChat.png">
+      </FileRef>
+      <FileRef
+         location = "group:Alex Chat/Chat.png">
+      </FileRef>
+      <FileRef
+         location = "group:Alex Chat/Main.png">
+      </FileRef>
+      <FileRef
+         location = "group:Alex Chat/README.md">
+      </FileRef>
+   </Group>
    <FileRef
       location = "group:Alex Chat.xcodeproj">
    </FileRef>
