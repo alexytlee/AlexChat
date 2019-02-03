@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4317C7972206EA0300DD287A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 4317C7962206EA0300DD287A /* README.md */; };
+		4317C79C2206EA4F00DD287A /* Chat.png in Resources */ = {isa = PBXBuildFile; fileRef = 4317C7992206EA4E00DD287A /* Chat.png */; };
+		4317C79D2206EA4F00DD287A /* Main.png in Resources */ = {isa = PBXBuildFile; fileRef = 4317C79A2206EA4F00DD287A /* Main.png */; };
+		4317C79E2206EA4F00DD287A /* AlexChat.png in Resources */ = {isa = PBXBuildFile; fileRef = 4317C79B2206EA4F00DD287A /* AlexChat.png */; };
 		433E6E9922016B7F0012F43A /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 433E6E9822016B7F0012F43A /* GoogleService-Info.plist */; };
 		6321A9C31B94EBA10053D2E7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6321A9C21B94EBA10053D2E7 /* Images.xcassets */; };
 		6321A9E21B94EBE70053D2E7 /* CustomMessageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6321A9DB1B94EBE70053D2E7 /* CustomMessageCell.swift */; };
@@ -23,6 +27,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4317C7962206EA0300DD287A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		4317C7992206EA4E00DD287A /* Chat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Chat.png; sourceTree = "<group>"; };
+		4317C79A2206EA4F00DD287A /* Main.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Main.png; sourceTree = "<group>"; };
+		4317C79B2206EA4F00DD287A /* AlexChat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AlexChat.png; sourceTree = "<group>"; };
 		433E6E9822016B7F0012F43A /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		6321A9B61B94EBA10053D2E7 /* Alex Chat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Alex Chat.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6321A9BA1B94EBA10053D2E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -62,9 +70,22 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		4317C7982206EA2200DD287A /* Documentation */ = {
+			isa = PBXGroup;
+			children = (
+				4317C79B2206EA4F00DD287A /* AlexChat.png */,
+				4317C7992206EA4E00DD287A /* Chat.png */,
+				4317C79A2206EA4F00DD287A /* Main.png */,
+			);
+			name = Documentation;
+			path = "Alex Chat";
+			sourceTree = "<group>";
+		};
 		6321A9AD1B94EBA10053D2E7 = {
 			isa = PBXGroup;
 			children = (
+				4317C7962206EA0300DD287A /* README.md */,
+				4317C7982206EA2200DD287A /* Documentation */,
 				6321A9B81B94EBA10053D2E7 /* Alex Chat */,
 				6321A9B71B94EBA10053D2E7 /* Products */,
 				E74775DC80C797D4AB761A72 /* Pods */,
@@ -213,10 +234,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4317C79D2206EA4F00DD287A /* Main.png in Resources */,
+				4317C79C2206EA4F00DD287A /* Chat.png in Resources */,
+				4317C7972206EA0300DD287A /* README.md in Resources */,
 				63E28B291B9A336600FBF6E0 /* Main.storyboard in Resources */,
 				6321A9C31B94EBA10053D2E7 /* Images.xcassets in Resources */,
 				63EBB3051D98004B004175E5 /* LaunchScreen.storyboard in Resources */,
 				6321A9E51B94EBE70053D2E7 /* MessageCell.xib in Resources */,
+				4317C79E2206EA4F00DD287A /* AlexChat.png in Resources */,
 				433E6E9922016B7F0012F43A /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
